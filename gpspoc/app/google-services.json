@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402762970851",
+    "firebase_url": "https://gps-learning.firebaseio.com",
+    "project_id": "gps-learning",
+    "storage_bucket": "gps-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402762970851:android:0ed95a8f06d49fbb",
+        "android_client_info": {
+          "package_name": "com.lerning.zup.gpspoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402762970851-89ermbqm2th4e5mbpl6js1vnfjb4blo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lerning.zup.gpspoc",
+            "certificate_hash": "b622043374286eae66d3b4ab1122c5499714a7ac"
+          }
+        },
+        {
+          "client_id": "402762970851-nksntrs911cv0us3dck4c8o7nt15luvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASM-Jxmo82zSHDEsnsDywA3CNoNQ0ORCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402762970851-nksntrs911cv0us3dck4c8o7nt15luvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
